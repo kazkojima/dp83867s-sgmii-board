@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name DP83867S)(type KiCad)(uri ${KIPRJMOD}/DP83867S.pretty)(options "")(descr ""))
+  (lib (name HX5008)(type KiCad)(uri ${KIPRJMOD}/HX5008.pretty)(options "")(descr ""))
+  (lib (name TPD4E05U06)(type KiCad)(uri ${KIPRJMOD}/TPD4E05U06DQAR.pretty)(options "")(descr ""))
+  (lib (name MJ406541)(type KiCad)(uri ${KIPRJMOD}/MJ406541.pretty)(options "")(descr ""))
+  (lib (name sgmphys2)(type KiCad)(uri ${KIPRJMOD}/sgmphys2.pretty)(options "")(descr ""))
+)

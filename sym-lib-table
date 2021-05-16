@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name DP83867S)(type Legacy)(uri ${KIPRJMOD}/DP83867S.lib)(options "")(descr ""))
+  (lib (name HX5008)(type Legacy)(uri ${KIPRJMOD}/HX5008.lib)(options "")(descr ""))
+  (lib (name TPD4E05U06DQAR)(type Legacy)(uri ${KIPRJMOD}/TPD4E05U06DQAR.lib)(options "")(descr ""))
+  (lib (name MJ406541)(type Legacy)(uri ${KIPRJMOD}/MJ406541.lib)(options "")(descr ""))
+  (lib (name USB-uB)(type Legacy)(uri ${KIPRJMOD}/USB-uB.lib)(options "")(descr ""))
+)
